@@ -14,7 +14,7 @@ const Buus = {
   code: [PHP, Typescript, HTML, CSS],
   tools: [React, Scss, Node, Adobe, Local ],
   architecture: ["perfectionist", "curious", "design pattern enthusiast"],
- currently-doing: "enjoying the nature of Norway"
+  doing: "enjoying the nature of Norway"
 }
 ```
 
