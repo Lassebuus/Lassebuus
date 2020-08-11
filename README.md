@@ -3,7 +3,7 @@
 <p><em>Front end Developer at <a href="http://www.nettmaker.no">Nettmaker</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: Lassebuus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasse-buus-nielsen-6aaa42a2/)](https://www.linkedin.com/in/lasse-buus-nielsen-6aaa42a2/)
+[![Linkedin: Lassebuus](https://img.shields.io/badge/-lassebuus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasse-buus-nielsen-6aaa42a2/)](https://www.linkedin.com/in/lasse-buus-nielsen-6aaa42a2/)
 [![GitHub Lassebuus](https://img.shields.io/github/followers/lassebuus?label=follow&style=social)](https://github.com/Lassebuus)
 
 
