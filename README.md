@@ -7,7 +7,7 @@
 [![GitHub Lassebuus](https://img.shields.io/github/followers/lassebuus?label=follow&style=social)](https://github.com/Lassebuus)
 
 
-### <img src="https://media.giphy.com/media/8Am4Njdu7imzLbnIhc/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Buus = {
