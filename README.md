@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lasse Buus Nielsen! <img src="https://media.giphy.com/media/iILcihlqw5rFoAH2IQ/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Lasse Buus Nielsen!</h2>
 <img align='right' src="https://media.giphy.com/media/gIl90vrqMIjm3MO4Xi/giphy.gif" width="230">
 <p><em>Front end Developer at <a href="http://www.nettmaker.no">Nettmaker</a><img src="https://media.giphy.com/media/W1O4hCT9EK11SNl1jm/giphy.gif" width="30">
 </em></p>
